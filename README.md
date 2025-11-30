@@ -1,6 +1,7 @@
 # Emoji-Sentiment Novel Transformer  
-I converted Mary Shelley's Franksenstein to a heart emoji based novel.
+I converted Mary Shelley's Frankenstein to a heart emoji-based novel. The text is sourced from Project Guttenberg.
 
+Final word count 88761, according to https://wordcounter.net/
 
 ## Emoji Mapping
 
